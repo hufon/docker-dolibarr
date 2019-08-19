@@ -10,6 +10,7 @@ Docker image for Dolibarr with auto installer on first boot.
 * 8.0.4 8.0.4-php7.0 8.0.4-php7.1 
 * 9.0.0 9.0.0-php7.0 9.0.0-php7.1 
 * 9.0.1 9.0.1-php7.0 9.0.1-php7.1 
+* 9.0.3 9.0.3-php7.0 9.0.3-php7.1 
 
 
 ## What is Dolibarr ?
